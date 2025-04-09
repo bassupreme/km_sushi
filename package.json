@@ -4,7 +4,8 @@
   "description": "un progetto di prova che permette di calcolare costi e consumi in base alle tratte e alla macchina attualmente in mio possesso",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "npx tsc index.ts"
   },
   "author": "Leonardo Basso",
   "license": "ISC",
